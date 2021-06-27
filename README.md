@@ -1,4 +1,4 @@
-# Car-price Prediction
+# Car Prices Prediction
 # Details:
 - Project to predict the price of cars based on the dataset from Kaggle website
 - Report pdf link:
